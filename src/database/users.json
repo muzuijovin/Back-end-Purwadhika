@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "jovin ganteng",
+      "email": "jovin.najwan@gmail.com",
+      "password": "01234567",
+      "isVerivied": true
+    },
+    {
+      "username": "ian",
+      "email": "ian@gmail.com",
+      "password": "123456",
+      "isVerivied": true
+    },
+    {
+      "username": "vian",
+      "email": "vian@gmail.com",
+      "password": "12345",
+      "isVerivied": true
+    }
+  ]
+}
